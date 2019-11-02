@@ -1,0 +1,58 @@
+
+
+h1 {
+	color: purple;
+}
+
+body {
+	text-align: center;
+	background-color: pink;
+}
+p {
+	color: black;
+	font-size:15px;
+	font-family: courier;
+}
+
+img {
+	border-radius: 100%;
+	border-color: purple;
+}
+h1 {
+	font-size: 60px;
+ font-family: courier;
+}
+h2 {
+	color: purple;
+	font-family: courier;
+	font-size: 18px;
+	
+}
+<ul> {color: pink;
+	font-size:20px;
+	font-family: courier;}
+	li{
+		display: inline-block;
+	}
+	
+a{
+	color: purple;
+	font-family: courier;
+	transition: 0.5s;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+	}
+
+	div{
+		background: white;
+		border: 2px solid purple; 
+		margin: 10px;
+	}
+	h3 {
+		font-family: courier;
+	font-size: 25px;
+	color: purple;
+	}
+
